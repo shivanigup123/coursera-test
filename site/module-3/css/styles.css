@@ -28,3 +28,6 @@
 .navbar-brand {
     font-weight: bold;
 }
+.navbar-nav {
+    background-color: aliceblue;
+}
