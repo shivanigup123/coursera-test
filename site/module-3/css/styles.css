@@ -1,0 +1,30 @@
+#header-nav {
+    background-color: cadetblue;
+}
+#nav-list a,
+.navbar-header .navbar-brand {
+    color: black;
+}
+
+.section-container {
+    padding: 10px;
+}
+.section-styling {
+    border: 1px solid black;
+    background-color: tan;
+}
+.title-container > span {
+    font-size: 1.3em;
+    font-weight: bold;
+}
+* {
+    box-sizing: border-box;
+}
+.header {
+    margin-bottom: 30px;
+}.navbar-nav a {
+    font-size: 1.1em;
+}
+.navbar-brand {
+    font-weight: bold;
+}
